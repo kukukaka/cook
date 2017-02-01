@@ -1,2 +1,3 @@
 #Lasagna
-<img src=“/img/lasagna.jpg” title=“Lasagna” width=“60%” />
+
+<img src=“/img/lasagna.jpg” title=“lasagna” width=“60%” />
